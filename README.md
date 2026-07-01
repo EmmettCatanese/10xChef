@@ -34,3 +34,11 @@ Once it's time to cook, you can click on the recipe in your calendar and it will
 ## Improvements
 
 This app definitely isn't perfect. One thing I want to add is a backend user data storage. Right now all of your recipes and groceries are stored on your device and stay on your device. It would be nice to have an account system so that way you can go between say your computer and your phone. If there's enough interest I would definitely implement it using Firebase. Another improvement is the Natural Language Processing. Because of the nature of human writing, the ingredient lists are all very different and random and in their own styles. Ideally good NLP would help standardize the format of the ingredients but I am just not there yet. 
+
+## A couple of notes
+
+### Development
+I did use a ton of Claude in the development of this app. Much more than I typically use. I still was very engaged in the process of the development and engaged in a variety of quality control measures.
+
+### Copyright
+From my understanding of copyright laws, recipes are fair use and thus shouldn't cause any concern for copyright. That being said, if you would like your recipe taken down, please reach out to me at me{at}emmettcatanese{dot}com
